@@ -1,0 +1,6 @@
+{
+  "name": "Spatial Audio Compass",
+  "description": "An interactive 2D acoustic scene simulator featuring real-time synthesized immersive soundscapes, custom autopilot orbital trajectories, and direct interactive mouse controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
