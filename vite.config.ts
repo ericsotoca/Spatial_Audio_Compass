@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: '/Spatial_Audio_Compass/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
